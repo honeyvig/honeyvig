@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @honeyvig
+- 👋 Hi, I’m @honeyvig 
 - 👀 I’m interested in c#,unity 3d, e-commerce, php, python, ASP, C, C++, ruby,deep learning, AI, ML
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... http://www.honeyvig.com/artificial-intelligence/
 <a id="user-content-worked-with" class="anchor" aria-label="Permalink: Worked with" href="#worked-with"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
 <p dir="auto"><code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" title="flutter" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python" style="max-width: 100%;"></a></code>
