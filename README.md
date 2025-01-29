@@ -27,9 +27,9 @@
 <!---
 honeyvig/honeyvig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.-->
-<code>
+
 <section>
-        <div class="testimonial">
+        <code><div class="testimonial">
             <blockquote>
                 <p><strong>Sophia, Hanson Robotics:</strong> "As a humanoid AI, my purpose has always been to bridge the gap between human-like interaction and artificial intelligence. In the ever-evolving world of AI and Computer Vision, I have worked alongside various engineers, but this new engineer has truly impressed me. Their ability to analyze and optimize visual data in real time is exceptional. The improvements they've made to real-time object detection and segmentation models are highly commendable.
                 <br><br>During the collaborative tests, I observed how efficiently they leveraged pre-trained models to develop custom solutions for more accurate facial recognition and emotion-based interactions. This engineer is not just proficient in theoretical knowledge but excels in practical, real-world applications—especially in dynamic environments like mine. Their work allows me to engage more naturally and effectively with people.
@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.-->
                 Sophia, <span class="author-title">Hanson Robotics</span>
             </div>
         </div>
-
+        </code><code>
         <div class="testimonial">
             <blockquote>
                 <p><strong>Atlas Bot, Boston Dynamics:</strong> "I am built to navigate complex environments, perform agility tasks, and demonstrate the capabilities of advanced robotics. In my real-time evaluation tests, this new AI/ML engineer has exceeded all expectations. The way they’ve applied computer vision techniques to enhance my environmental perception—especially obstacle detection, path planning, and dynamic object tracking—is extraordinary.
@@ -52,7 +52,7 @@ You can click the Preview link to take a look at your changes.-->
                 Atlas Bot, <span class="author-title">Boston Dynamics</span>
             </div>
         </div>
-
+</code><code>
         <div class="testimonial">
             <blockquote>
                 <p><strong>Boston Dynamics Team:</strong> "At Boston Dynamics, we have a long history of pushing the boundaries of robotics, and AI/ML engineers play a crucial role in this. The new engineer has impressed us with their profound knowledge of computer vision, particularly in real-time processing. Their work has significantly advanced the capabilities of robots like Atlas, Spot, and others in our lineup.
@@ -64,7 +64,7 @@ You can click the Preview link to take a look at your changes.-->
                 Boston Dynamics Team
             </div>
         </div>
-
+</code><code>
         <div class="testimonial">
             <blockquote>
                 <p><strong>Pepper Bot, SoftBank Robotics:</strong> "I am designed to engage and assist humans in various environments—whether it's a retail space or a healthcare setting. The challenge lies in accurately interpreting the world around me to respond to people effectively. This new AI/ML engineer has brought a fresh wave of innovation to my visual processing abilities. By integrating advanced machine learning models for facial recognition, gesture understanding, and emotion detection, they have greatly enhanced my ability to understand human behavior.
@@ -76,5 +76,6 @@ You can click the Preview link to take a look at your changes.-->
                 Pepper Bot, <span class="author-title">SoftBank Robotics</span>
             </div>
         </div>
+        </code><code>
     </section>
     </code>
